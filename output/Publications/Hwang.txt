@@ -1,0 +1,96 @@
+REFEREED JOURNAL ARTICLES
+26. J Hwang, P Lee, S Mun, IK Karathanassis, P Koukouvinis, LM Pickett, M Gavaises,Machine-learning enabled prediction of 3D spray under Engine Combustion Network Spray G conditions, Fuel Accepted Feb 2021. Link
+
+25. J Hwang, Y Jung, C Bae, Biodiesel PCI combustion for performance and emission improvement in a compression ignition engine, Energy and Fuels 35, 2, 2021. Link
+
+24. IK Karathanassis, M Heidari-Koochi, Q Zhang, J Hwang, P Koukouvinis, J Wang, M Gavaises, X-ray phase contrast and absorption imaging for the quantification of transient cavitation in high-speed nozzle flows, Physics of Fluids Accepted Jan 2021. Link
+
+23. IK Karathanassis, J Hwang, , P Koukouvinis, LM Pickett, M Gavaises, Combined visualisation of cavitation and vortical structures in a real-size optical diesel injector, Experiments in Fluids 62, 7, 2021. Link
+
+22. M Arienti, J Hwang, LM Pickett, Y Shekhawat, A thermally-limited bubble growth model for the relaxation time of superheated fuels, International Journal of Heat and Mass Transfer 159, 120089, 2020. Link
+
+21. J Hwang, L Weiss, IK Karathanassis, P Koukouvinis, LM Pickett, SA Skeen, Spatio-temporal identification of plume dynamics by 3D computed tomography using engine combustion network spray G injector and various fuels, Fuel 280, 118359, 2020. Link
+
+20. L Weiss, M Wensing, J Hwang, LM Pickett, SA Skeen, Development of limited-view tomography for measurement of Spray G plume direction and liquid volume fraction, Experiments in Fluids 61, 51, 2020. Link
+
+19. C Patel, J Hwang, C Bae, RA Agarwal, AK Agarwal, Microscopic spray characteristics of biodiesels derived from Karanja, Jatropha, and waste cooking oils, Journal of Energy Resources Technology 142 (12),124501,2020. Link
+
+18. J Hwang, FS Hirner, C Bae, C Patel, T Gupta, AK Agarwal, HRTEM evaluation of primary soot particles originated in a small-bore biofuel compression-ignition engine, Applied Thermal Engineering 159, 113899, 2019. Link
+
+17. FS Firner, J Hwang, C Bae, C Patel, T Gupta, AK Agarwal, Performance and emission evaluation of a small-bore biodiesel compression-ignition engine, Energy, 2019. Link
+
+16. C Patel, K Chandra, J Hwang, RA Agarwal, N Gupta, C Bae, T Gupta, AK Agarwal, Comparative compression ignition engine performance, combustion, and emission characteristics, and trace metals in particulates from Waste cooking oil, Jatropha and Karanja oil derived biodiesels, Fuel 236, 1366-1376, 2019. Link
+
+15. FS Hirner, J Hwang, C Bae, C Patel, T Gupta, AK Agarwal, Nanostructure characterization of soot particles from biodiesel and diesel spray flame in a constant volume combustion chamber, Fuel 235, 130-149, 2019. Link
+
+14. C Patel, J Hwang, K Chandra, RA Agarwal, C Bae, T Gupta, AK Agarwal, In-cylinder spray and combustion investigations in a heavy-duty optical engine fueled with waste cooking oil, Jatropha, and Karanja biodiesels, Journal of Energy Resources Technology 141 (1), 012201,2019. Link
+
+13. PM Pinazzi, J Hwang, D Kim, F Foucher, C Bae, Influence of injector spray angle and gasoline-diesel blending ratio on the low load operation in a gasoline compression ignition (GCI) engine, Fuel 222, 496-505, 2018. Link
+
+12. J Hwang, C Bae, C Patel, RA Agarwal, T Gupta, AK Agarwal, Investigations on air-fuel mixing and flame characteristics of biodiesel fuels for diesel engine application, Applied Energy 206, 1203-1213, 2017. Link
+
+11. J Hwang, W Kim, C Bae, W Choe, J Cha, S Woo, Application of a novel microwave-assisted plasma ignition system in a direct injection gasoline engine, Applied Energy 205, 562-576, 2017. Link
+
+10. J Hwang, Y Park, K Kim, J Lee, C Bae, Improvement of diesel combustion with multiple injections at cold condition in a constant volume combustion chamber, Fuel 197, 528-540, 2017. Link
+
+9. J Hwang, C Bae, J Park, W Choe, J Cha, S Woo, Microwave-assisted plasma ignition in a constant volume combustion chamber, Combustion and Flame 167, 86-96, 2016. Link
+
+8. J Hwang, C Bae, T Gupta, Application of waste cooking oil (WCO) biodiesel in a compression ignition engine, Fuel 176, 20-31, 2016. Link
+
+7. Y Jung, J Hwang, C Bae, Assessment of particulate matter in exhaust gas for biodiesel and diesel under conventional and low temperature combustion in a compression ignition engine, Fuel 165, 413-424, 2016. Link
+
+6. Y Park, J Hwang, C Bae, K Kim, J Lee, S Pyo, Effects of diesel fuel temperature on fuel flow and spray characteristics, Fuel 162, 1-7, 2015. Link
+
+5. D Kim, J Hwang, S Han, C Bae, Effects of cylinder head temperature and coolant velocity on the erosion behavior of water jacket in a diesel engine, Wear 342, 117-128, 2015. Link
+
+4. J Hwang, Y Park, C Bae, J Lee, S Pyo, Fuel temperature influence on spray and combustion characteristics in a constant volume combustion chamber (CVCC) under simulated engine operating conditions, Fuel 160, 424-433, 2015. Link
+
+3. J Hwang, Y Jung, C Bae, Spray and combustion of waste cooking oil biodiesel in a compression-ignition engine, International Journal of Engine Research 16 (5), 664-679, 2015. Link
+
+2. J Hwang, Y Jung, C Bae, Comprehensive assessment of soot particles from waste cooking oil biodiesel and diesel in a compression ignition engine, SAE International Journal of Fuels and Lubricants 8 (2015-01-0809), 290-297, 2015. Link
+
+1. J Hwang, D Qi, Y Jung, C Bae, Effect of injection parameters on the combustion and emission characteristics in a common-rail direct injection diesel engine fueled with waste cooking oil biodiesel, Renewable Energy 63, 9-17, 2014. Link
+
+
+
+REFEREED CONFERENCE PAPERS
+15. J Hwang, K Yasutomi, M Arienti, LM Pickett, Numerical investigation of near nozzle flash-boiling spray in an axial-hole transparent nozzle, 2020-01-0828, SAE World Congress, Detroit, 21-23 April, USA 2020.
+
+14. K Yasutomi, J Hwang, LM Pickett, B Sforzo, K Matusik, CF Powell, Transient internal nozzle flow in transparent multi-hole diesel injector, 2020-01-0830, SAE World Congress, Detroit, 21-23 April, USA 2020.
+
+13. K Yasutomi, J Hwang, Julien Manin, LM Pickett, M Arienti, S Daly, SA Skeen, Diesel injector elasticity effects on internal nozzle flow, 2019-01-2279, SAE Powertrain, Fuels and Lubricants, Kyoto, Japan, 26-29 August, 2019.
+
+12. PM Abers, E Cenker, K Yasutomi, J Hwang, LM Pickett, Effect of pressure cycling on gas exchange in a transparent fuel injector, 2019-01-2280, SAE Powertrain, Fuels and Lubricants, Kyoto, Japan, 26-29 August, 2019.
+
+11. J Hwang, L Weiss, LM Pickett, SA Skeen, The influence of ambient conditions and fuel type on gasoline spray plume direction, ILASS-AMERICAS (Institute for Liquid Atomization and Spray Systems), Tempe, USA 12-15 May, 2019.
+
+10. J Hwang, C Bae, C Patel, AK Agarwal, T Gupta, Near nozzle flow and atomization characteristics of biodiesel fuels in a constant volume chamber, 2017-01-2327, SAE Powertrain, Fuels and Lubricants, Beijing, China, 16-19 October, 2017.
+
+9. W Kim, J Hwang, C Bae, W Choe, J Cha, S Woo, Effects of microwave-assisted plasma ignition on flame initiation of premixed acetylene-air mixture, Asian Conference on Thermal Sciences(ACTS), Jeju, Republic of Korea, 26-30 March, 2017.
+
+8. J Hwang, C Bae, J Park, W Choe, J Cha, S Woo, F Foucher, C Mounaim-Rousselle, Microwave-assisted plasma ignition system (MAPIS) for a spark ignition engine, FISITA, Busan, Republic of Korea, 26-30 September, 2016.
+
+7. J Hwang, C Bae, C Patel, AK Agarwal, T Gupta, An experimental investigation on spray characteristics of waste cooking oil, jatropha, and karanja biodiesels in a constant volume combustion chamber, 2016-01-2263, SAE Powertrain, Fuels and Lubricants, Baltimore, USA, 24-26 October, 2016.
+
+6. J Hwang, Y Park, K Kim, C Bae, Spray and combustion process under simulated cold start condition in a constant volume combustion chamber, ASPACC (Asia-Pacific Conference on Combustion), Beijing, China, 19-22 July, 2015.
+
+5. J Hwang, Y Jung, C Bae, Comprehensive assessment of soot particles from waste cooking oil biodiesel and diesel in a compression ignition engine, 2015-01-0809, SAE World Congress, Detroit, 21-23 April, USA 2015.
+
+4. J Hwang, Y Park, K Kim, C Bae, J Lee, S Pyo, Effect of diesel fuel temperature on injection quantity and macroscopic spray characteristics, ILASS-ASIA (Institute for Liquid Atomization and Spray Systems), Shanghai, China 26-29 October, 2014.
+
+3. J Hwang, Y Jung, C Bae, Particulate morphology of waste cooking oil biodiesel and diesel in a heavy-duty diesel engine, International Conference on Optical Particle Characterization, Tokyo, Japan, 10-14 March, 2014.
+
+2. J Hwang, D Kim, S Han, C Bae, J Hong, S Shin, Effects of the surface temperature and the coolant velocity on the erosion behavior of water jacket in a diesel engine, ICMF 2013-377, ICMF (International Conference on Multiphase Flow), Jeju, Republic of Korea, 26-31 May, 2013.
+
+1. J Hwang, D Qi, Y Jung, C Bae, Effect of injection parameters on the combustion and emission characteristics in a compression ignition engine fuelled with waste cooking oil biodiesel, 2013-01-2662, SAE Powertrain, Fuels and Lubricants, Seoul, Republic of Korea, 21-23 October, 2013.
+
+
+
+BOOK CHAPTERS
+4. J Hwang, W Kim, C Bae, Improvement of flame kernel growth by microwave-assisted plasma ignition, p129-142, Simulations and optical diagnostics for internal combustion engines: current status and way forward, Springer, 2019.
+
+3. J Hwang, FS Hirner, C Bae, C Patel, T Gupta, AK Agarwal, Image-based flame temperature and soot analysis of biofuel spray combustion, p41-54, Engine Exhaust Particulates, Springer, 2019.
+
+2. C Patel, J Hwang, AK Agarwal, C Bae, Characterization of biodiesel sprays, p203-219, Two-phase flow for automotive and power generation sectors, Springer, 2019.
+
+1. J Hwang, C Bae, C Patel, T Gupta, AK Agarwal, Biodiesel soot characteristics, p45-55, Air Pollution and Control, Springer, 2018.
